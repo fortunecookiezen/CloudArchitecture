@@ -18,5 +18,6 @@
 *   Is it available from a 3rd party?
 *   Can I build it myself?
 
+    Here's an example of that thought process in action:
 
 ![Buy it or Build it?](https://s3.amazonaws.com/fortunecookiezen/github/images/tool_decision_tree.png)
