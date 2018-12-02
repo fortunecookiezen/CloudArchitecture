@@ -9,9 +9,9 @@
 *  Develop the solution and monitor it for business value, once it's value has been determined, optimize it for cost. If you cannot determine it's business value, then interate through the process.
 ## Principles on the selection of tools:
 1. Always start with the tools you have
-*   Pick tools that are available to you *now* and start there. Use that to develop the use cases and business values for what you are trying to accomplish. Good enough is often better than best.
+*   Pick tools that are available to you *now* and start there. Use that to develop the use cases and business values for what you are trying to accomplish. Good enough is often better than best. I'm going to call this metric *"Mean Time To Value (MTTV)"*
 
-    Start by asking yourself the following quesitions. When you get to the first *yes* answer, stop there and do that.
+    You achieve low MTTV by asking yourself the following questions. When you get to the first *yes* answer, stop there and do that.
 
 *   Is it available in AWS or Azure?
 *   Is it available in the open source community?
