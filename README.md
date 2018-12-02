@@ -17,3 +17,6 @@
 *   Is it available in the open source community?
 *   Is it available from a 3rd party?
 *   Can I build it myself?
+
+
+![Buy it or Build it?](https://s3.amazonaws.com/fortunecookiezen/github/images/tool_decision_tree.png)
