@@ -1,4 +1,5 @@
 # CloudArchitecture
+*“The essential thing is action.  Action has three stages: the decision born of thought, the order or preparation for execution, and the execution itself.  All three stages are governed by the will.  The will is rooted in character, and for the man of action character is of more critical importance than intellect.  Intellect without will is worthless, will without intellect is dangerous.”* – Sun Tzu, as quoted in the Marine Corps Warfighting Doctrine
 # Principles
 1. Keep teams out of each other's resources
 2. Always use the simplest architecture available
