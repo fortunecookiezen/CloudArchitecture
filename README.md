@@ -20,4 +20,4 @@
 
     Here's an example of that thought process in action:
 
-![Buy it or Build it?](https://s3.amazonaws.com/fortunecookiezen/github/images/tool_decision_tree-2.png)
+![Buy it or Build it?](https://s3.amazonaws.com/fortunecookiezen/github/images/tool_decision_tree-3.png)
